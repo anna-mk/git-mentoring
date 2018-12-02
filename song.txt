@@ -23,3 +23,5 @@ You my love, my sweet, sweet love
 Are what it's all because of
 
 first commit content in feature branch
+
+second commit content in feature branch
